@@ -179,6 +179,7 @@ font-family: 'Kaushan Script', cursive;
   background: #283c86;
   background: -webkit-linear-gradient(to left, #45a247, #283c86);
   background: linear-gradient(to left, #45a247, #283c86);
+  /* background: linear-gradient(to left,rgba(69, 162, 71,1.0),rgba(0, 40, 60, 0.63)); */
   padding: 5% 10%;
 
 }
