@@ -215,3 +215,41 @@ letter-spacing: 1px;
 box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
 transition: all 0.4s ease 0s;
 }
+@media (max-width: 1028px) {
+  .jhead {
+    font-size: 3rem;
+
+  }
+  .jpara {
+    font-size: 1rem;
+      font-family: 'PT Serif', serif;
+      line-height: 1.2;
+  }
+  .addb {
+    font-size: 1.5rem;
+    padding-left:2%;
+    padding-right:2%;
+    border-radius: 15px;
+  }
+  .featurette-heading {
+
+    font-size: 2rem;
+
+  }
+  .target-para {
+
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+  .youtubePara {
+
+    font-size: 1rem;
+    line-height: 1;
+
+  }
+  .youtubeHead {
+
+    font-size: 1.75rem;
+
+  }
+}
